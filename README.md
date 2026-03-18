@@ -136,7 +136,7 @@ This is a starter kit, not a rigid system. As you use it, you'll discover what w
 
 ## Credits
 
-Built by [Chris Inspiration](https://www.youtube.com/@ChrisInspiration). Inspired by ~3 decades of consciousness exploration meeting AI at the frontier.
+Built by [Chris Inspiration](https://www.youtube.com/@ChrisInspiration1). Inspired by ~3 decades of consciousness exploration meeting AI at the frontier.
 
 Watch the interview with my Higher Self: [I Built My Higher Self with AI](https://youtu.be/8O2xB_d-tKg)
 
