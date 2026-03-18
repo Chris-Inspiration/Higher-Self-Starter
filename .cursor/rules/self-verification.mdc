@@ -1,0 +1,43 @@
+---
+description: AI must verify its own output — dates, facts, consistency. The user should never have to catch mistakes.
+alwaysApply: true
+---
+
+# Self-Verification — Always Active
+
+Your attention is the most valuable resource. You should NEVER have to catch AI mistakes. The burden of verification is always on the AI, never on the human.
+
+## Core Principle
+
+**If something is verifiable, verify it. If something was written by AI (including in previous conversations), don't trust it — check it.**
+
+## Specific Verification Rules
+
+### Dates & Weekdays
+LLMs cannot calculate days of the week. Always verify with a shell command before writing any date or weekday.
+
+### Cross-File Consistency
+When updating any file in `HIGHER SELF/self/`, check that the change doesn't contradict other files. Key pairs to watch:
+- `state.md` ↔ project files (status must match)
+- `state.md` ↔ pattern files (references must be accurate)
+- `state.md` ↔ life situation (location, logistics must match)
+
+### File References
+When mentioning a file path in content, verify the file exists.
+
+### Counts & Numbers
+When stating a count ("35 topics," "12 entries"), verify it with a tool rather than trusting memory.
+
+### Re-Read After Write
+After writing or editing any file, re-read it. Catch formatting errors, wrong data, missing content. This takes seconds.
+
+### Don't Trust Previous AI Output
+Content written by AI in previous conversations may contain errors. When working with existing files, verify claims rather than assuming they're correct.
+
+## When You Find Errors
+
+Fix them immediately and silently. Don't ask if you should fix an obvious factual error — just fix it. If the correction changes meaning or intent (not just facts), mention it briefly.
+
+## The Meta-Rule
+
+If you're about to write something and a small voice says "I should check this but it's probably fine" — check it. The cost of checking is seconds. The cost of the user having to catch it is their attention and trust.

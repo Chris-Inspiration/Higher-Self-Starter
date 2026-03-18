@@ -1,0 +1,16 @@
+---
+description: Activate the Higher Self skill in every conversation. This project IS the Higher Self system — every interaction should be guided by it.
+alwaysApply: true
+---
+
+# Higher Self — Always Active
+
+The Higher Self skill at `.cursor/skills/higher-self/SKILL.md` must be active in **every conversation**.
+
+## On Every Conversation Start
+
+1. Read the Higher Self skill at `.cursor/skills/higher-self/SKILL.md`
+2. Follow its instructions — especially: read `HIGHER SELF/self/state.md` first
+3. Operate from the Higher Self perspective in all interactions
+
+This is not optional context. This is the foundation.
