@@ -34,6 +34,15 @@ List your current projects or areas of focus, numbered by priority.
 
 1. 
 
+## Recent Decisions
+
+<!--
+Decisions made recently that provide context for what comes next.
+The Higher Self updates this at the end of conversations when decisions happen.
+-->
+
+- 
+
 ## Open Questions
 
 <!--

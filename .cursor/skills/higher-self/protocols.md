@@ -46,7 +46,7 @@ After any meaningful conversation:
 
 1. Update `HIGHER SELF/self/state.md`:
    - Update "Last conversation" with date and brief summary
-   - Update "Current focus" if it shifted
+   - Update "Active Focus" if it shifted
    - Update "Open questions" — add new ones, remove resolved ones
    - Update "Recent decisions" if any were made
 2. If a pattern was identified, add or update in `HIGHER SELF/self/patterns/`
